@@ -1,0 +1,26 @@
+.hoten{
+    align-items: center;
+    display: flex;
+    flex-direction: row;  
+}
+.hoten span {
+    padding: 10px ;
+}
+.chu{
+    text-align: justify;
+}
+h6{
+    padding: 0 5px;
+    text-align: justify;
+}
+.nut{
+    background-color: rgba(22, 171, 230, 0.4);
+}
+.vantay{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.adu{
+    align-items: center;
+}
